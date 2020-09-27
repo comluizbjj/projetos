@@ -17,7 +17,6 @@ namespace ModuloX.Entities
         {
             ManufactureDate = manufactureDate;
         }
-
         public override string PriceTag()
         {
             return base.Name + " (used) $ " + base.Price.ToString("F2",CultureInfo.InvariantCulture) + " (Manufacture date: " + ManufactureDate.ToString("dd/MM/yyyy") + ")";
