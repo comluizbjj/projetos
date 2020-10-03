@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuloX", "ModuloX\ModuloX.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuloXI", "ModuloXI\ModuloXI.csproj", "{AA8984D1-B5E6-493D-8942-50576A866A1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuloXIII", "ModuloXIII\ModuloXIII.csproj", "{D48CC283-12D4-493E-BF5F-2B040386EFB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{AA8984D1-B5E6-493D-8942-50576A866A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA8984D1-B5E6-493D-8942-50576A866A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA8984D1-B5E6-493D-8942-50576A866A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D48CC283-12D4-493E-BF5F-2B040386EFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D48CC283-12D4-493E-BF5F-2B040386EFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D48CC283-12D4-493E-BF5F-2B040386EFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D48CC283-12D4-493E-BF5F-2B040386EFB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
