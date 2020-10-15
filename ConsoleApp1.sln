@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuloXIII", "ModuloXIII\Mo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuloXIV - Interfaces", "ModuloXIV - Interfaces\ModuloXIV - Interfaces.csproj", "{38FF6D5B-7806-4757-8013-E224DD1A36B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuloXV", "ModuloXV\ModuloXV.csproj", "{BEE41CDE-AF7C-48B1-9F59-F6A745C7C012}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{38FF6D5B-7806-4757-8013-E224DD1A36B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38FF6D5B-7806-4757-8013-E224DD1A36B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38FF6D5B-7806-4757-8013-E224DD1A36B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEE41CDE-AF7C-48B1-9F59-F6A745C7C012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE41CDE-AF7C-48B1-9F59-F6A745C7C012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE41CDE-AF7C-48B1-9F59-F6A745C7C012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE41CDE-AF7C-48B1-9F59-F6A745C7C012}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
