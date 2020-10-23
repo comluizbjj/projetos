@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuloXIV - Interfaces", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuloXV", "ModuloXV\ModuloXV.csproj", "{BEE41CDE-AF7C-48B1-9F59-F6A745C7C012}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuloXVII - Lambda", "ModuloXVII\ModuloXVII - Lambda.csproj", "{6EAEB671-8EE3-459F-8A09-599D5906610A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{BEE41CDE-AF7C-48B1-9F59-F6A745C7C012}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEE41CDE-AF7C-48B1-9F59-F6A745C7C012}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEE41CDE-AF7C-48B1-9F59-F6A745C7C012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EAEB671-8EE3-459F-8A09-599D5906610A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EAEB671-8EE3-459F-8A09-599D5906610A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EAEB671-8EE3-459F-8A09-599D5906610A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EAEB671-8EE3-459F-8A09-599D5906610A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

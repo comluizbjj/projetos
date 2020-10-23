@@ -34,7 +34,7 @@ namespace ModuloXV
             */
 
             Dictionary < string, int> voto = new Dictionary<string,int>();
-            int acumulaVoto = 0;
+            int acumulaVoto;
 
             Console.Write("Enter file full path: ");
             // deve ser digitado o caminho da pasta do diretorio deste projeto "***ConsoleApp1\ModuloXV\File\in.csv"
