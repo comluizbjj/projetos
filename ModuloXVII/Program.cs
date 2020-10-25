@@ -30,6 +30,7 @@ namespace ModuloXVII
                     string email = fields[1];
                     double salary = double.Parse(fields[2], CultureInfo.InvariantCulture);
 
+
                     dados.Add(new Employee (name, email, salary));
                 }
             }
